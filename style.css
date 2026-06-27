@@ -6,16 +6,22 @@ body
 
 .hero
 {
+  display: flex;
+  flex-flow: column;
   background: #1F2937;
 }
 .header
 {
   display: flex;
   justify-content: space-between;
+  min-height: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 .header-logo
 {
   font-size: 24px;
+  font-weight: bold;
   color: #F4FAF8;
   flex: 0 1 65%;
 }
