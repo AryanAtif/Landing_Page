@@ -23,6 +23,7 @@ body
   display: flex;
   justify-content: space-between;
   min-height: 150px;
+  padding-top: 10px;
 }
 .header-logo
 {
@@ -65,7 +66,7 @@ a, .title-subtext
   padding: 10px;
   font-size: 18px;
   color: #E5E7EB;
-  flex: 0, 5, auto;
+  flex: 0 5 auto;
 }
 .title-img
 {
