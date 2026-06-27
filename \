@@ -79,8 +79,8 @@ button
   color: #F4FAF8;
   border: none;
   font-size: 18px;
-  max-height: 100px;
-  max-width: 120px;
+  max-height: 70px;
+  max-width: 110px;
 
-  border-radius: 10px;
+  border-radius: 25px;
 }
