@@ -17,6 +17,11 @@ body
 {
   font-size: 24px;
   color: #F4FAF8;
+  flex: 0 1 65%;
+}
+.header-links
+{
+  flex: 0 1 auto;
 }
 a
 {
