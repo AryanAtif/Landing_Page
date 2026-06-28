@@ -94,7 +94,8 @@ button
 
 .information
 {
-  padding-top: 30px;
+  padding-top: 50px;
+  padding-bottom: 150px;
   display: flex;
   flex-flow: column;
 }
@@ -103,5 +104,27 @@ button
   font-size: 36px;
   color: #1F2937;
   align-self: center;
+}
+.information-content
+{
+  padding-top: 50px;
+  align-self: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.information-element
+{
+  display: flex;
+  flex-flow: column;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.information-subtext
+{
+  max-width: 150px;
+  font-size: 16px;
+  text-align: center;
+  color: #1F2937;
+  flex: 0 5 auto;
 }
 
