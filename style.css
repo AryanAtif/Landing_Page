@@ -63,7 +63,7 @@ a
 }
 a, .title-subtext
 {
-  padding: 10px;
+  padding-bottom: 10px;
   font-size: 18px;
   color: #E5E7EB;
   flex: 0 5 auto;
@@ -76,10 +76,8 @@ button
 {
 
   background-color: #3882F6;
-  /*padding: 20px;*/
-  color: #F4FAF8;
+  padding: 5px;
   border: none;
-  font-size: 18px;
   max-height: 100px;
   max-width: 120px;
 
